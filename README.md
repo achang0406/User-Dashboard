@@ -1,6 +1,5 @@
 # User-Dashboard
 
-Description:
 A Social Networking Website that allows people to connect with their community by commenting and messaging on other people's walls. Admins have special authority to create, edit and update users while normal users only have the ability view, comment and message on people's profile pages. 
 
 Technology includes:
